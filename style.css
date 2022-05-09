@@ -1,0 +1,58 @@
+*{
+     font-size: 10px;
+     margin: 0px;
+     font-family: 'Stylish', sans-serif;
+}
+
+html{
+background-image: url(https://img.freepik.com/free-photo/grunge-paint-background_1409-1337.jpg?w=2000); 
+    background-repeat: no-repeat;
+     background-size: 100% 160%;
+
+     
+}
+
+
+.logo,span{
+     font-size: 3rem;
+}
+
+.papu:hover{
+box-shadow: 10px 20px 50px black;
+}
+.papu{
+     
+   
+     height: 60vh;
+     width: 60vh;
+     margin: auto;
+     display: block;
+     border-radius: 100%;
+}
+
+.logo,.menu{
+     align-items: center;
+     align-content: center;
+     text-align: center;
+     display: block;
+     color: rgb(255, 255, 255);
+}
+
+.logo:hover{
+     color: greenyellow;
+}
+.menu{
+ 
+     align-content: center;
+}
+
+li:hover{
+     color: rgb(255, 255, 255);
+}
+
+li{
+     list-style: none;
+     display: inline;
+     font-size: 2rem;
+     margin: 0px 2rem;
+}
